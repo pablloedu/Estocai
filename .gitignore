@@ -3,3 +3,5 @@ venv/
 
 # Ignore all .sqlite3 files
 *.sqlite3
+
+test.py
